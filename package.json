@@ -1,0 +1,11 @@
+{
+  "name": "wikitopic",
+  "version": "1.0.0",
+  "description": "Counts word occurrences in a Wikipedia topic search",
+  "type": "module",
+  "main": "counttopic.js",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
